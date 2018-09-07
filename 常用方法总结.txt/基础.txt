@@ -4,3 +4,11 @@ let str = 'abcde'；
 2) str.charAt(2)  // c  得到字符串中位置为2的字符
 3) str.slice(2,3) // c 获取从第2个位置但是不包括第3个位置的字符串
 4) [ 'a', 'b', 'c', 'd', 'e' ].join('')  //abcde  合并字符串数组
+5) str.trim(); 去除头尾空格
+
+
+2.Math
+1) Math.pow(2,31);  //2的31次幂
+
+3.字符串转数字
+parseInt()
