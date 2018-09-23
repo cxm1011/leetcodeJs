@@ -40,3 +40,7 @@ function length(){
 function clear(){
     this.top = 0;
 }
+
+5.元素是否在数组中
+1)arr.includes(-1)
+2)arr.indexOf(9) === -1?

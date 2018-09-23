@@ -21,6 +21,9 @@ let str = 'abcde';
 console.log(str.split(''));
 console.log(str.charAt(2));
 console.log(str.slice(2,3));
+for(let c of str){
+    console.log(c);
+}
 
 let temp = str;
 let strs = str.split('')
