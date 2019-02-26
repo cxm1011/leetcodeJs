@@ -44,3 +44,10 @@ function clear(){
 5.元素是否在数组中
 1)arr.includes(-1)
 2)arr.indexOf(9) === -1?
+
+6.声明数字最大值
+max = Number.MAX_VALUE;
+
+7.算法 
+动态规划  62 63 64
+arr[i][j] 与 arr[i-1][j]和arr[i][j-1]关系
