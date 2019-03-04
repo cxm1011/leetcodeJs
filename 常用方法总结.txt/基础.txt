@@ -52,5 +52,10 @@ max = Number.MAX_VALUE;
 动态规划  62 63 64
 arr[i][j] 与 arr[i-1][j]和arr[i][j-1]关系
 
+贪心算法  
+122  保证每一步都是最大利润，则总利润最大
+
 8.求二叉树最大深度  104
 return root === null ? 0 : Math.max(maxDepth(root.left),maxDepth(root.right)) + 1;
+
+
